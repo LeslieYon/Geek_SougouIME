@@ -22,12 +22,13 @@
  - **~~国产软件~~（伪）爱好者**
  
 使用方式  
-1.先安装原始第三方修改版  
+1.先下载、安装原始第三方修改版  
 2.将三个可执行程序分别替换到对应的目录（可能需要WinPE、重新启动）  
 3.enjoy~
 
 ![image](https://user-images.githubusercontent.com/43743875/115141145-61587a80-a06d-11eb-874b-51d307af597d.png)
 
+附 原始修改版下载地址([https://pan.lanzous.com/icy7enmsdne](https://pan.lanzous.com/icy7enmsdne))  
 附 原始修改版修改记录([原贴](https://www.423down.com/587.html))：  
 * 去广告，精简优化，免升级，有效阻止程序相关广告弹窗！
 * 纯净无广告，无多余干扰提示，默认无不必要联网程序驻留！
