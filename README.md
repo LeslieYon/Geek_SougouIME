@@ -1,7 +1,7 @@
 # Geek_SougouIME
 搜狗拼音输入法隐私保护增强版  
 本人基于搜狗拼音输入法第三方修改版再度暴力修改  
-**（原始版本10.2.0.4519，2021年4月2日更新）**  
+**（原始版本10.3.0.4581，2021年4月29日更新）**  
 目标着重于隐私保护  
 本版本在第三方修改版的基础上，增加以下修改特性：
 * 暴力阻止绝大部分尝试联网的请求，一刀切
@@ -29,7 +29,7 @@
 
 ![image](https://user-images.githubusercontent.com/43743875/115141145-61587a80-a06d-11eb-874b-51d307af597d.png)
 
-附 原始修改版下载地址([https://pan.lanzous.com/icy7enmsdne](https://pan.lanzous.com/icy7enmsdne))  
+附 原始修改版下载地址([https://pan.lanzous.com/igwtYop7b1i](https://pan.lanzous.com/igwtYop7b1i))  
 附 原始修改版修改记录([原贴](https://www.423down.com/587.html))：  
 * 去广告，精简优化，免升级，有效阻止程序相关广告弹窗！
 * 纯净无广告，无多余干扰提示，默认无不必要联网程序驻留！
