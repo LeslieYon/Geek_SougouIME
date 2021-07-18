@@ -27,8 +27,9 @@
 1.先下载、安装原始第三方修改版  
 2.将三个可执行程序分别替换到对应的目录（可能需要WinPE、重新启动）  
 2.5(可选)导入SogouUpdate.reg，并删除SogouExe目录下的SogouExe.exe、SogouSvc.exe
-   注意：此处假设您的安装路径为D:\Program Files\SogouInput
-   如果安装位置与此不一致，需要先修改为您的安装路径，再导入
+   >注意：此处假设您的安装路径为D:\Program Files\SogouInput<br>
+   >如果安装位置与此不一致，需要先把reg文件中的位置修改为您的安装路径，再导入<br>
+
 3.enjoy~
 
 ![image](https://user-images.githubusercontent.com/43743875/115141145-61587a80-a06d-11eb-874b-51d307af597d.png)
