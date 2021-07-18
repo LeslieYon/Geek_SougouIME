@@ -13,6 +13,7 @@
 * 禁止联网推荐皮肤
 * 保留离线词库、皮肤安装功能
 * 保留第三方账户登录功能（仅登录，不会上报数据）
+* （可选）解除对于SogouExe.exe、SogouSvc.exe的依赖
 * 所有修改不加壳不加花，保证安全透明
 
 本版本适用于：  
@@ -25,6 +26,9 @@
 使用方式  
 1.先下载、安装原始第三方修改版  
 2.将三个可执行程序分别替换到对应的目录（可能需要WinPE、重新启动）  
+2.5(可选)导入SogouUpdate.reg，并删除SogouExe目录下的SogouExe.exe、SogouSvc.exe
+   注意：此处假设您的安装路径为D:\Program Files\SogouInput
+   如果安装位置与此不一致，需要先修改为您的安装路径，再导入
 3.enjoy~
 
 ![image](https://user-images.githubusercontent.com/43743875/115141145-61587a80-a06d-11eb-874b-51d307af597d.png)
