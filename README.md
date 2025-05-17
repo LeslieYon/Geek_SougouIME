@@ -40,8 +40,10 @@
 使用方式  
 1.先下载、安装原始第三方修改版  
 2.替换对应的可执行程序（可能需要WinPE、重新启动）  
-3.执行clean.bat，清理无用的文件和注册表项  
-4.enjoy~  
+3.修改开始菜单搜狗输入法设置选项快捷方式目标为："<你的安装目录>\14.12.0.1506\SGMyInput.exe"
+4.修改开始菜单输入法管理器快捷方式目标为："<你的安装目录>\14.12.0.1506\SGTool.exe" -line 0 -border --appid=config /m
+5.执行clean.bat，清理无用的文件和注册表项  
+6.enjoy~  
 
 ![image](https://github.com/user-attachments/assets/9a99235c-b3b5-438b-9fc8-aef7fb0372da)
 ![image](https://github.com/user-attachments/assets/01560528-3746-4708-9ead-89018cfd6aa0)
