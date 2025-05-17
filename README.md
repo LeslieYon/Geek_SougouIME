@@ -40,8 +40,11 @@
 使用方式  
 1.先下载、安装原始第三方修改版  
 2.替换对应的可执行程序（可能需要WinPE、重新启动）  
-3.修改开始菜单搜狗输入法设置选项快捷方式目标为："<你的安装目录>\14.12.0.1506\SGMyInput.exe"  
-4.修改开始菜单输入法管理器快捷方式目标为："<你的安装目录>\14.12.0.1506\SGTool.exe" -line 0 -border --appid=config /m  
+3.导入SogouUpdate.reg，并删除SogouExe目录下的SogouExe.exe、SogouSvc.exe，并修复开始菜单中的快捷方式  
+ - 修改开始菜单搜狗输入法设置选项快捷方式目标为："<你的安装目录>\14.12.0.1506\SGMyInput.exe"  
+ - 修改开始菜单输入法管理器快捷方式目标为："<你的安装目录>\14.12.0.1506\SGTool.exe" -line 0 -border --appid=config /m  
+   >注意：此处假设您的安装路径为「D:\Program Files\SogouInput」<br>  
+   >如果安装位置与此不一致，需要先把reg文件中的位置修改为您的安装路径，再导入<br>  
 5.执行clean.bat，清理无用的文件和注册表项  
 6.enjoy~  
 
